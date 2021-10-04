@@ -15,3 +15,9 @@
   &nbsp;
   <img align="center" width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  </div>
+
+<div align="center">
+  <h2>Projetos em Desenvolvimento</h2>
+  <h4>Site do Grupo de Pesquisa na Formação de Professores de Física - UFU</h4>
+  <h5>https://www.gpfpf.org</h5>
+ </div>
