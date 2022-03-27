@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Eai glr, aqui quem fala é o Eduardo Kessler Ustra 😎</h1>
+  <h1>Eduardo Kessler Ustra</h1>
 </div>
 
 <div align="center">
@@ -14,15 +14,9 @@
 <div align="center">
   <img align="center" width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   &nbsp;
-  <img align="center" width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
-  &nbsp;
   <img align="center" width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  &nbsp;
+  <img align="center" width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+  &nbsp;
+  <img align="center" width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
-
-<div align="center">
-  <h2>Projetos em Desenvolvimento</h2>
-  <h4>Site do Grupo de Pesquisa na Formação de Professores de Física - UFU</h4>
-  <h5>https://www.gpfpf.org</h5>
-  <h4>Portfólio Compartilhado Temático</h4>
-  <h5>Em Breve</h5>
- </div>
