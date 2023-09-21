@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-<h5>Criando meu novo Outdoor 😌😌</h5>
+<h5>Criando meu novo Outdoor</h5>
 </div>
